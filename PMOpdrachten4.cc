@@ -114,6 +114,11 @@ void followFormla(int startWith, int continueFor, bool printBetweenValues){
     }
     cout << (3*(continueFor+startWith) + 1) << endl;
 }
+void ontbind(int nummer){
+    for(int i = 2; i < nummer; i++){
+        
+    }
+}
 //Only used to test functions.
 int main(){
     int input;
